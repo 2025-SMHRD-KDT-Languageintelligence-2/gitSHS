@@ -175,7 +175,7 @@
 
  --- 
   
-* ### 🔹 문제 2  
+### 🔹 문제 2  
 - 백엔드 팀원 간 동일한 파일을 동시에 수정하면서  
   Git 병합 충돌이 자주 발생함  
 
@@ -187,9 +187,9 @@
   
  --- 
  
- * ### 🔹 문제 3
+### 🔹 문제 3
 - 프로필 수정 시, 사용자 정보(JSON)와 프로필 이미지 파일을 함께 전송하려 했으나,<br>
-  Spring Boot 서버에서 HttpMessageNotReadableException 예외가 발생하며 <br> 요청이 실패함.
+  Spring Boot 서버에서 HttpMessageNotReadableException 예외가 발생하며<br> 요청이 실패함.
 
 ### ✅ 해결 방법
 -  프론트엔드에서 사용자 정보와 이미지를 함께 전송하기 위해 FormData를 사용함.<br>
