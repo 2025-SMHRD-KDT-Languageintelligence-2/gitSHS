@@ -1,22 +1,24 @@
-# 📎 꽃 보러 갈래?(팀명: 아름답조)
-![image](https://user-images.githubusercontent.com/25995055/178401309-2a2ffc86-ef45-439b-bfd8-6978312100bc.png)
+# 팀명 : 공모자들
+![image](https://github.com/user-attachments/assets/69073960-cb1c-4d0c-b2af-e9b3dc77f44a)
+
 
 
 ## 👀 서비스 소개
-* 서비스명:  꽃 개화 시기별 우리 지역 근처 데이트/드라이브 추천 장소 및 꽃 축제 추천 
-* 서비스설명: 
+* 서비스명: 예비 개발자들을 위한 공모전 팀 모집 서비스
+* 서비스설명: 피드 및 채팅을 이용해 공모전 정보와 소식을 공유하고 
+	프로필 기반 맞춤형 팀 모집 서비스를 제공하여 사용자에게
+	쉽고 효율적인 공모전 협업 환경을 제공하는 서비스
 <br>
 
 ## 📅 프로젝트 기간
-2022.04.22 ~ 2022.06.03 (6주)
+2025.04.02 ~ 2025.04.16 
 <br>
 
 ## ⭐ 주요 기능
-* 기능1
-* 기능2
-* 기능3
-* 기능4
-* 기능5
+* 게시글 작성하고 마이프로필 및 피드에 작성한글 확인
+* ICT기반 공모전 정보 제공
+* 사용자 프로필 생성 시 선택한 카테고리를 기반으로 공모전 팀을 추천
+* 1대1 채팅 및 팀 기반 그룹 채팅 가능
 <br>
 
 ## ⛏ 기술스택
@@ -29,44 +31,49 @@
         <td>사용언어</td>
         <td>
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>라이브러리</td>
         <td>
-            <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
-            <img src="https://img.shields.io/badge/KakaoMap-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-7952B3?style=for-the-badge&logo=React&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>개발도구</td>
+        <td>프레임워크</td>
         <td>
-            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-            <img src="https://img.shields.io/badge/RaskpberryPi-A22846?style=for-the-badge&logo=RaskpberryPi&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-            <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/SpringBoot-2C2255?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/FastAPI-A22846?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+        </td>
+    </tr>
+   <tr>
+        <td>IDE</td>
+        <td>
+            <img src="https://img.shields.io/badge/IntelliJ-F05032?style=for-the-badge&logo=IntelliJ&logoColor=white"/>
+            <img src="https://img.shields.io/badge/VSCODE-181717?style=for-the-badge&logo=VSCODE&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>서버환경</td>
         <td>
-            <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Tomcat-181717?style=for-the-badge&logo=Tomcat&logoColor=white"/>
+        </td>
         </td>
     </tr>
     <tr>
-        <td>데이터베이스</td>
+        <td>DB</td>
         <td>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-FFCA28?style=for-the-badge&logo=MySQL&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>협업도구</td>
         <td>
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Nothion-F05032?style=for-the-badge&logo=Notion&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
         </td>
     </tr>
@@ -75,74 +82,108 @@
 
 <br>
 
-## ⚙ 시스템 아키텍처(구조) 예시 
-![서비스 아키텍처](https://user-images.githubusercontent.com/25995055/169925538-15867bd9-aa0b-42fc-a39b-88981e926e51.png)
+## ⚙ 시스템 아키텍처 
+![image](https://github.com/user-attachments/assets/54127160-ee9c-46ad-a149-6866342921be)
+
+
 <br>
 
-## 📌 SW유스케이스
-![image](https://user-images.githubusercontent.com/25995055/178401023-9a015e66-aa6e-4d74-8564-9b1f9d306649.png)
+## 📌 유스케이스
+![image](https://github.com/user-attachments/assets/78923337-6926-484c-8f47-8413f907eff1)
 <br>
 
 ## 📌 서비스 흐름도
-![image](https://user-images.githubusercontent.com/25995055/178401048-d6484bda-a2d7-40e1-998b-2bd195cd9f89.png)
+![image](https://github.com/user-attachments/assets/9f840527-1e5d-4ff9-b683-4fa91748888f)
+
 <br>
 
 ## 📌 ER다이어그램
-![image](https://user-images.githubusercontent.com/25995055/169925318-102784c2-893f-4fd7-bec9-a54c44b669d4.png)
+![image](https://github.com/user-attachments/assets/5b3ea02a-5347-48f6-b3d6-ec65339b3df2)
 <br>
 
 ## 🖥 화면 구성
 
-### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
-![image](https://user-images.githubusercontent.com/25995055/178401098-95f15a0e-a2de-415e-83d5-883bb4cb0656.png)
+### 로그인/회원가입/프로필생성
+![image](https://github.com/user-attachments/assets/52617c7b-6eff-4e61-a97f-54f7051e0657)
 <br>
 
-### 옷 정보/코디 추천(날씨, 팁, 오늘의 코디, 참고할 수 있는 코디)
-![image](https://user-images.githubusercontent.com/25995055/178401127-287e6de2-4396-49fc-a107-59c4d5cd55c7.png)
+---
+
+### 마이프로필/게시글 작성/팔로우목록
+![image](https://github.com/user-attachments/assets/dd987a91-d7ad-420c-b6c2-942979a8e6d1)
 <br>
 
-### 일정/고객센터
-![image](https://user-images.githubusercontent.com/25995055/178401150-861f0e93-0f40-4fae-98c1-2099bf513c8d.png)
+---
+
+### 홈(피드)/좋아요+댓글/유저 검색
+![image](https://github.com/user-attachments/assets/cadffd87-c884-44b7-bea6-e8e03420e509)
+<br>
+
+---
+
+### 공모전 페이지+검색조건/공모전 상세페이지
+![image](https://github.com/user-attachments/assets/56397d2a-d553-4fed-ab48-a01e80caadc9)
+<br>
+
+---
+
+### 팀 생성,수정,삭제,참여/팀 추천
+![image](https://github.com/user-attachments/assets/fa92d531-767d-47ca-92eb-54d8297ae158)
+<br>
+
+---
+
+### 채팅방/1대1,팀채팅/초대,참여자,일정 보기
+![image](https://github.com/user-attachments/assets/b69310a4-97e4-4dce-a1bc-e2d324533bee)
+<br>
+
+---
+
+### 계정 설정
+![image](https://github.com/user-attachments/assets/799e380b-4eb7-4079-a988-94b4ca9ee7ef)
 <br>
 
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
-    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
-    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
-    <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
+    <td align="center"><strong>손현수</strong></td>
+    <td align="center"><strong>김서연</strong></td>
+    <td align="center"><strong>손준섭</strong></td>
+    <td align="center"><strong>정동연</strong></td>
   </tr>
   <tr>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-    <td align="center"><strong>홍O동</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Deep Learning</b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+  <td align="center"><b>PM<br/>Frontend</b></td>
+  <td align="center"><b>Back-end<br/>DB</b></td>
+  <td align="center"><b>Front-end</b></td>
+  <td align="center"><b>Back-end<br/>Data Modeling</b></td>
   </tr>
 </table>
 
 ## 🤾‍♂️ 트러블슈팅
-개념: 문제 해결을 위해 문제의 원인을 논리적이고 체계적으로 찾는 일이며 제품이나 프로세스의 운영을 재개
-프로젝트 진행하는 동안 발생했던 이슈 중 가장 기억에 남았던 문제와 해결 프로세스 나열(2~5가지 정도)
+
+### 🔹 문제 1  
+- 사용자/팀의 스킬 선택 개수가 유동적(1~3개)이기 때문에  
+  단순 벡터 유사도 기반 추천만으로는 정확도가 낮아짐  
+- 특히 스킬 수가 적은 팀은 추천에서 불리해지는 문제가 발생함  
+- 또한, 사용자와 팀 간 스킬, 지역, 목표의 중요도(가중치)가  
+  반영되지 않아 추천이 현실적이지 않음  
+
+---
+
+### ✅ 해결 방법
+- 스킬 개수가 다른 경우, 공정성을 위해 스킬 매칭율을 계산해 유사도에 반영 
+- 협업과 참여도를 높이기 위해 스킬과 지역에 더 높은 가중치를 적용함
+
+ --- 
   
-* 문제1<br>
- 문제점 설명 및 해결방안
- 
-* 문제2<br>
- 문제점 설명 및 해결방안
+* ### 🔹 문제 2  
+- 백엔드 팀원 간 동일한 파일을 동시에 수정하면서  
+  Git 병합 충돌이 자주 발생함  
+
+---
+
+### ✅ 해결 방법
+- 커밋 및 푸시 전 'pull' 먼저 수행하여 변경사항을 미리 반영  
+  → `git pull origin main` 후 충돌 사전 확인  
+- 동시에 같은 파일을 수정하지 않도록 역할 분담 조정   
+   
